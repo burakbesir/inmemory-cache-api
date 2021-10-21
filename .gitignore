@@ -1,2 +1,4 @@
 .idea
 inmemory-cache-api
+tmp
+.DS_Store
